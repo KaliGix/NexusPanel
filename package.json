@@ -1,0 +1,19 @@
+{
+  "name": "dashboard-app",
+  "version": "1.0.0",
+  "description": "Dashboard simple con separación de responsabilidades",
+  "main": "Server/index.js",
+  "scripts": {
+    "start": "node Server/index.js",
+    "dev": "nodemon Server/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.4",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
