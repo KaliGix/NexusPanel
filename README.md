@@ -120,6 +120,7 @@ http://localhost:3000
 
 - [ ] Agregar más endpoints en el servidor
 - [ ] Conectar a una base de datos
+- [ ] permitir autenticacion de usuario
 - [ ] Agregar filtros y búsqueda
 - [ ] Agregar gráficos
 
