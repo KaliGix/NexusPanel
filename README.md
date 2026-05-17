@@ -1,17 +1,17 @@
 # 📊 NexuxPanel
 
-Un dashboard simple construido con HTML, CSS, JavaScript y Node.js + Express.
+Un dashboard simple construido con HTML, css, Bootstrap 5.1.3, JavaScript y Node.js + Express.
 
 Este proyecto entrena:
 - Separación de responsabilidades (UI, API, Lógica)
 - Múltiples llamadas a API
-- Diseño responsive
+- Diseño responsive con Bootstrap 5
 - Renderizado dinámico de componentes
 
 ## 📁 Estructura del Proyecto
 
 ```
-Dashboard App/
+NexusPanel/
 
 ├── Client/                    # Frontend (navegador)
 │   ├── index.html             # Página principal
